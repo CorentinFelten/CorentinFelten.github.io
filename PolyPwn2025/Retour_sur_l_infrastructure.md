@@ -7,7 +7,7 @@ Dans ce write-up, je vais mentionner quelques termes qui ne parleront peut être
 - CTF : Capture The Flag, compétition de cybersécurité dont le but est de résoudre des challenges dans différentes catégories (programmation, reverse engineering, web)
 - [CTFd](https://github.com/CTFd/CTFd) : framework de déploiement de CTF
 - Docker : service de déploiement de conteneurs, petites machines virtuelles spécialisées pour une application spécifique
-- Firewall statefull / stateless : 
+- Firewall statefull / stateless : Un firewall statefull retient les informations de la connexion en cours à travers les différents messages de la communication, tandis qu'un firewall stateless analyse les paquets de manière indépendantes, même lors d'une communication bidirectionnelle entre un client et un serveur
 - VPS : Virtual Private Server, un serveur privé virtuel
 
 ## Infrastructure
