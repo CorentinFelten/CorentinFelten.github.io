@@ -1,4 +1,5 @@
 # Démystification de rulings
+[Retour à l'accueil](../README.md)
 
 # 3. SEGOC
 Les effets déclencheurs sont très présents dans Yu-Gi-Oh!, et leur fonctionnement est gouverné par quelques mécaniques de jeu.

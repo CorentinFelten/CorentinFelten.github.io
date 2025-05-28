@@ -1,4 +1,5 @@
 # Démystification de rulings
+[Retour à l'accueil](../README.md)
 
 # Conjonctions
 Une conjonction, en PSCT, est un mot / ensemble de mots qui joint deux parties d'un effet. Elle contient beaucoup d'informations sur la manière dont un effet marche en un seul groupe de mots, ce qui en fait un élément crucial du PSCT. 

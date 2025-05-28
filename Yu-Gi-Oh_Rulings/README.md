@@ -1,5 +1,5 @@
 # Démystification de rulings
-
+[Retour à l'accueil](../README.md)
 Cet ensemble de documents est une traduction en français des articles publiés sur YGOrganization par [**Bilaterus**](https://ygorganization.com/author/bilaterus/page/2/) entre 2015 et 2016 en anglais, dont le but est de clarifier des points de règles dans Yu-Gi-Oh!. 
 
 Il est vivement conseillé de lire ces articles dans l'ordre, puisque certains se basent sur des points de règles expliqués dans les articles précédents.

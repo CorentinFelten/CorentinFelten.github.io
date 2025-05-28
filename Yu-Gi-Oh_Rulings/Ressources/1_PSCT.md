@@ -1,4 +1,5 @@
 # Démystification de rulings
+[Retour à l'accueil](../README.md)
 
 # 1. PSCT
 Vos cartes vous en expliquent plus sur leur fonctionnement que ce que l'on pourrait croire. Les cartes sorties, ou réimprimées, après 2011, soit une grande majorité des cartes utilisées aujourd'hui, ont été écrites en *Problem Solving Card Text* (PSCT, ou Texte de Carte pour de la Résolution de Problèmes). Cela veut dire qu'avec un peu de connaissances, il est possible de connaître beaucoup d'informations supplémentaires sur le fonctionnement d'un effet de carte, et ce uniquement depuis son texte. 

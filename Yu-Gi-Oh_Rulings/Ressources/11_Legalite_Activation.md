@@ -1,4 +1,5 @@
 # Démystification de rulings
+[Retour à l'accueil](../README.md)
 
 # Légalité d'Activation
 Dans cet article, nous utiliserons le terme de "tentative" pour étudier différents rulings pour savoir si une action ou activation est légale. 

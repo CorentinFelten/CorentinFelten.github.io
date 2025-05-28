@@ -1,4 +1,5 @@
 # Démystification de rulings
+[Retour à l'accueil](../README.md)
 
 # Divers Rulings
 Dans cet article, nous passerons en revue différentes zones de règles : le Game State, et enfin, le sujet mystère...
