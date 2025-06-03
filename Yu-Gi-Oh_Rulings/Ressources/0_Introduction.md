@@ -46,15 +46,15 @@ Voici quelques questions rapides pour tester des points importants. Les réponse
    - Cartes Magie Rapide
    - Un effet déclencheur de Monstre
 
-<details>
-<summary>Réponse</summary>
-<p>
+     <details>
+     <summary>Réponse</summary>
+     <p>
 
-- <strong>Les Magies Rapides et les Pièges Continus.</strong><br>
+     - <strong>Les Magies Rapides et les Pièges Continus.</strong><br>
 
-     <i>Comme expliqué page 41, seuls ces deux types de cartes ont un Spell Speed 2.</i>
-</p>
-</details>
+          <i>Comme expliqué page 41, seuls ces deux types de cartes ont un Spell Speed 2.</i>
+     </p>
+     </details>
 
 2. Quelles cartes peuvent être activées le tour où elles sont Posées ?
    - Cartes Magie Terrain
@@ -62,17 +62,15 @@ Voici quelques questions rapides pour tester des points importants. Les réponse
    - Cartes Magie Rapide
    - Cartes Piège Contre
 
-<details>
-<summary>Réponse</summary>
-<p>
+     <details>
+     <summary>Réponse</summary>
+     <p>
 
-- <strong>Les Magies Terrain et les Magies Continues.</strong><br>
+     - <strong>Les Magies Terrain et les Magies Continues.</strong><br>
 
-     <i>Comme expliqué page 27, seules les Cartes Magies peuvent être activées le tour où elles ont été Posées, sauf les Cartes Magies Rapides.</i>
-</p>
-</details>
-
-
+          <i>Comme expliqué page 27, seules les Cartes Magies peuvent être activées le tour où elles ont été Posées, sauf les Cartes Magies Rapides.</i>
+     </p>
+     </details>
 
 3. Quelles actions démarrent une Chaîne ?
    - Invocation Normale d'un Monstre
@@ -80,38 +78,38 @@ Voici quelques questions rapides pour tester des points importants. Les réponse
    - Activation d'une Magie Continue
    - Déclaration d'attaque
 
-<details>
-<summary>Réponse</summary>
-<p>
+     <details>
+     <summary>Réponse</summary>
+     <p>
 
-- <strong>Activer une Carte Magie Continue.</strong><br>
+     - <strong>Activer une Carte Magie Continue.</strong><br>
 
-     <i>Les autres actions ne démarrent pas une chaîne, comme mentionné explicitement page 47.</i>
-</p>
-</details>
+          <i>Les autres actions ne démarrent pas une chaîne, comme mentionné explicitement page 47.</i>
+     </p>
+     </details>
 
 4. Vrai ou Faux : les Matériels Xyz sont des cartes sur le Terrain.
 
-<details>
-<summary>Réponse</summary>
-<p>
+     <details>
+     <summary>Réponse</summary>
+     <p>
 
-- <strong>Faux.</strong><br>
-      
-     <i>Les Matériels Xyz sont également expliqués page 47.</i>
-</p>
-</details>
+     - <strong>Faux.</strong><br>
+          
+          <i>Les Matériels Xyz sont également expliqués page 47.</i>
+     </p>
+     </details>
 
 5. Vrai ou Faux : Si vous envoyez un Monstre Synchro de votre Extra Deck au Cimetière, vous pouvez ensuite l'Invoquer par Invocation Spéciale depuis le Cimetière avec des effets de cartes.
 
-<details>
-<summary>Réponse</summary>
-<p>
+     <details>
+     <summary>Réponse</summary>
+     <p>
 
-- <strong>Faux.</strong><br>
-      
-     <i>Ce point est expliqué page 21.</i>
-</p>
-</details>
+     - <strong>Faux.</strong><br>
+          
+          <i>Ce point est expliqué page 21.</i>
+     </p>
+     </details>
 
 Le prochain article portera sur le [PSCT](1_PSCT.md).
