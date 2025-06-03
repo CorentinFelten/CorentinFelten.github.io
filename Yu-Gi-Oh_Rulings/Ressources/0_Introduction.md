@@ -48,10 +48,12 @@ Voici quelques questions rapides pour tester des points importants. Les réponse
 
 <details>
 <summary>Réponse</summary>
+<p>
 
-- **Les Magies Rapides et les Pièges Continus.** 
+- <strong>Les Magies Rapides et les Pièges Continus.</strong><br>
 
-     *Comme expliqué page 41, seuls ces deux types de cartes ont un Spell Speed 2.*
+     <i>Comme expliqué page 41, seuls ces deux types de cartes ont un Spell Speed 2.</i>
+</p>
 </details>
 
 2. Quelles cartes peuvent être activées le tour où elles sont Posées ?
@@ -62,11 +64,14 @@ Voici quelques questions rapides pour tester des points importants. Les réponse
 
 <details>
 <summary>Réponse</summary>
+<p>
 
-- **Les Magies Terrain et les Magies Continues.** 
-     
-     *Comme expliqué page 27, seules les Cartes Magies peuvent être activées le tour où elles ont été Posées, sauf les Cartes Magies Rapides.*
+- <strong>Les Magies Terrain et les Magies Continues.</strong><br>
+
+     <i>Comme expliqué page 27, seules les Cartes Magies peuvent être activées le tour où elles ont été Posées, sauf les Cartes Magies Rapides.</i>
+</p>
 </details>
+
 
 
 3. Quelles actions démarrent une Chaîne ?
@@ -77,30 +82,36 @@ Voici quelques questions rapides pour tester des points importants. Les réponse
 
 <details>
 <summary>Réponse</summary>
+<p>
 
-- **Activer une Carte Magie Continue.** 
+- <strong>Activer une Carte Magie Continue.</strong><br>
 
-     *Les autres actions ne démarrent pas une chaîne, comme mentionné explicitement page 47.*
+     <i>Les autres actions ne démarrent pas une chaîne, comme mentionné explicitement page 47.</i>
+</p>
 </details>
 
 4. Vrai ou Faux : les Matériels Xyz sont des cartes sur le Terrain.
 
 <details>
 <summary>Réponse</summary>
+<p>
 
-- **Faux.** 
+- <strong>Faux.</strong><br>
       
-     *Les Matériels Xyz sont également expliqués page 47.*
+     <i>Les Matériels Xyz sont également expliqués page 47.</i>
+</p>
 </details>
 
 5. Vrai ou Faux : Si vous envoyez un Monstre Synchro de votre Extra Deck au Cimetière, vous pouvez ensuite l'Invoquer par Invocation Spéciale depuis le Cimetière avec des effets de cartes.
 
 <details>
 <summary>Réponse</summary>
+<p>
 
- - **Faux.** 
+- <strong>Faux.</strong><br>
       
-      *Ce point est expliqué page 21.*
+     <i>Ce point est expliqué page 21.</i>
+</p>
 </details>
 
 Le prochain article portera sur le [PSCT](1_PSCT.md).
